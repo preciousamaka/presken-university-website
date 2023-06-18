@@ -40,7 +40,7 @@ nav ul {
 nav ul li {
   margin-left: 2em;
   margin-right: 2em;
-  margin-top: 1em;
+  margin-top: 0em;
   font-size: 20px;
   justify-content: right;
 }
@@ -147,6 +147,7 @@ section {
   font-weight: bold;
   line-height: auto;
   font-size: 2em;
+  text-align: center;
 }
 
 h2 {
